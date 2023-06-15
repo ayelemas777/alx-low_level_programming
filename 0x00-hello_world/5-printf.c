@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - Prints out a string to stdout.
- * Return: 0 if success.
+ * main -entry point of program
+ *
+ * Return: zero if no erros, non-zero if error
  */
 int main(void)
 {
