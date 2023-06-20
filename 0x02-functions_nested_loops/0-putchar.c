@@ -1,11 +1,7 @@
 #include "main.h"
-
 /**
- * main - Entry point
- *
- * Description: Prints "_putchar" followed by a new line using the _putchar function
- *
- * Return: Always 0 (Success)
+ * main - prints the string "_putchar" from a character array.
+ * Return: 0 on success.
  */
 int main(void)
 {
@@ -21,4 +17,3 @@ int main(void)
 
 	return (0);
 }
-
